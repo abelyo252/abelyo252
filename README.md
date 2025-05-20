@@ -21,10 +21,10 @@ def my_life():
 - 🔮 **LLM Enthusiast** – Teaching AI to write poetry about database normalization  
 
 ### 🎒 **What's in My Backpack?**  
-`Python` `Django` `ERP Magic` `SQL Incantations` `JavaScript (begrudgingly)`  
+`Python` `Django` `ERP Magic` `SQL Incantations` `JavaScript (forcefully)`  
 
 ### 🌱 **Currently Exploring**  
-- The dark forest of **Django ORM** (send cookies)  
+- Running Website using **Django** 
 - Teaching GPT to understand Ethiopian coffee rituals ☕  
 - Building an ERP system powered by **hopes and dreams**  
 
