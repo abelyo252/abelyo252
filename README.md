@@ -21,7 +21,7 @@ def my_life():
 - 🔮 **LLM Enthusiast** – Teaching AI to write poetry about database normalization  
 
 ### 🎒 **What's in My Backpack?**  
-`Python` `Django` `ERP Magic` `SQL Incantations` `JavaScript (forcefully)`  
+`Python` `Django` `ERP Magic` `AI - Pytorch` `JavaScript (forcefully)`  `MQ5` `Signal Processing`  
 
 ### 🌱 **Currently Exploring**  
 - Running Website using **Django** 
