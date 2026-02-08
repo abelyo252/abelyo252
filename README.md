@@ -8,7 +8,6 @@ def my_life():
         try:
             code()
             coffee()
-            existential_dread()
         except KeyboardInterrupt:
             print("Wait, how did I get here?")
             break
